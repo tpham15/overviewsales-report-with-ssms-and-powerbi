@@ -9,3 +9,4 @@
 - Transfer and loading data into Power BI
 - Creating dashboard and reporting
  
+- Used: SQL Server, T-SQL, Power BI
